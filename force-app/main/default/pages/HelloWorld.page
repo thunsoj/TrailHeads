@@ -1,0 +1,6 @@
+<apex:page sidebar="false" showHeader="false">
+    <h1>Hello World</h1>
+    <apex:pageBlock title="User Status">
+        <apex:pageBlockSection columns="1"> </apex:pageBlockSection>
+    </apex:pageBlock>
+</apex:page>
